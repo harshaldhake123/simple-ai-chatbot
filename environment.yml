@@ -8,3 +8,6 @@ dependencies:
   - pip:
       - openai
       - langchain
+      - langchain-community
+      - langchain-openai
+      - beautifulsoup4
